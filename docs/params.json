@@ -1,0 +1,6 @@
+{
+  "name": "CSharp-KeyIntercept-Install",
+  "tagline": "本程序与CSharp-KeyboardIntercept-Zww配套使用，在Windows操作系统中安装键盘拦截程序。",
+  "body": "## 欢迎一起学习.Net\r\n\r\n### 程序功能及使用说明\r\n\r\n1.程序可在当前目录中寻找预定义的程序，将其拷贝至指定位置，并在Windows注册中添加自动启动；  \r\n2.若程序当前目录中不存在指定预定义程序，则从设定的网络共享地址下载；  \r\n3.程序内路径及程序名的修改请参考文件ForInstall.cs中参数定义区域；  \r\n\r\n### 程序其他说明  \r\n注意：  \r\n由于操作注册表需要，运行时请以管理员身份运行，否则会导致安装失败；  \r\n程序运行需要预定义共享程序服务器IP信息、用户名及密码、预定程序路径、预定程序名；  \r\n\r\n### 联系方式\r\nQQ：245655340  \r\n邮箱：[245655340@qq.com](http://mail.qq.com)",
+  "note": "Don't delete this file!"
+}
